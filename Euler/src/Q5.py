@@ -7,6 +7,8 @@ Created on Dec 17, 2014
 
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
+#To test whether egit works or not on the new PC
+
 '''
 import timeit
 from math import *
